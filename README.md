@@ -8,5 +8,4 @@
 
 ## Horizontal rueles
 
- theme: arcitect
-
+jekyll-theme-architect.gemspec
