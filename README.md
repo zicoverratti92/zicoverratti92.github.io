@@ -8,4 +8,6 @@
 
 ## Horizontal rueles
 
-jekyll-theme-architect.gemspec
+
+
+_config.yml
