@@ -8,4 +8,5 @@
 
 ## Horizontal rueles
 
-# theme🍎
+ theme: arcitect
+
